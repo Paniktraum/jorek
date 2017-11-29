@@ -39,8 +39,8 @@ footer	{
 					}
 .image {
   				display: block;
- 				width: 100%;
-  				height:auto;
+ 				width: auto;
+  				height:100%;
 					}
 .socialicon{
 				width: 88px;
