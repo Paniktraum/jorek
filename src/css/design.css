@@ -121,7 +121,15 @@ h2{
 h3 {
 	font-size: 60px;
 }
+h4 {
+	font-size: 30px;
+	font-style: bold;
+	color: crimson;
+}
 p {
+	font-size: 20px;
+}
+li {
 	font-size: 20px;
 }
 /***********************************
