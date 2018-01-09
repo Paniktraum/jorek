@@ -77,7 +77,16 @@ footer	{
                     margin-top: auto;
                     margin-bottom: auto;
                     marker-mid: auto;
-                    }
+					}
+.hovershop {
+	width: 100px;
+	height: auto;
+	transition: .5s ease;
+}
+.hovershop:hover {
+	width: 200px;
+	height: auto;
+}
 /************************************
 Email-BOX
 ************************************/
