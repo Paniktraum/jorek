@@ -78,14 +78,18 @@ footer	{
                     margin-bottom: auto;
                     marker-mid: auto;
 					}
+					table, th, td {
+						border: 1px solid white;
+					}
 .hovershop {
 	width: 100px;
 	height: auto;
 	transition: .5s ease;
 }
 .hovershop:hover {
-	width: 200px;
+	width: 20%;
 	height: auto;
+	
 }
 /************************************
 Email-BOX
